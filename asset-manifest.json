@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Amaury-Vasquez/React-Layout/static/js/main.f28f2170.chunk.js",
+    "main.js.map": "/Amaury-Vasquez/React-Layout/static/js/main.f28f2170.chunk.js.map",
+    "runtime-main.js": "/Amaury-Vasquez/React-Layout/static/js/runtime-main.ec4c1930.js",
+    "runtime-main.js.map": "/Amaury-Vasquez/React-Layout/static/js/runtime-main.ec4c1930.js.map",
+    "static/js/2.32453971.chunk.js": "/Amaury-Vasquez/React-Layout/static/js/2.32453971.chunk.js",
+    "static/js/2.32453971.chunk.js.map": "/Amaury-Vasquez/React-Layout/static/js/2.32453971.chunk.js.map",
+    "static/js/3.9cc30bb2.chunk.js": "/Amaury-Vasquez/React-Layout/static/js/3.9cc30bb2.chunk.js",
+    "static/js/3.9cc30bb2.chunk.js.map": "/Amaury-Vasquez/React-Layout/static/js/3.9cc30bb2.chunk.js.map",
+    "index.html": "/Amaury-Vasquez/React-Layout/index.html",
+    "static/js/2.32453971.chunk.js.LICENSE.txt": "/Amaury-Vasquez/React-Layout/static/js/2.32453971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec4c1930.js",
+    "static/js/2.32453971.chunk.js",
+    "static/js/main.f28f2170.chunk.js"
+  ]
+}
